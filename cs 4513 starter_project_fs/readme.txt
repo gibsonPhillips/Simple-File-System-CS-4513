@@ -1,0 +1,1 @@
+This project designed by the guidelines of CS4513: Distributed Systems, is a simple file system written in C. Future iterations include versions written in Go, as well as command implimentations for shell commands to modify such file systems from a shell. 
